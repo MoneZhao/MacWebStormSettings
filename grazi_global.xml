@@ -1,0 +1,17 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="SHI1_SHI2" />
+        <option value="YUAN_WU" />
+        <option value="凸出" />
+      </set>
+    </option>
+  </component>
+</application>
